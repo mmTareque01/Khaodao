@@ -1,0 +1,52 @@
+class Locators:
+    # ----------{ welcome page }---------- #
+    skip_button_id = 'com.graaho.khaodao:id/skipImageView'
+    country_selector_id = 'com.graaho.khaodao:id/rlClickConsumer'
+    number_input = 'com.graaho.khaodao:id/mobileNumberET'
+    apply_button_id = 'com.graaho.khaodao:id/applyBtn'
+    logo = ''
+    country_elements_id = 'com.graaho.khaodao:id/textView_countryName'
+    search_country= 'com.graaho.khaodao:id/editText_search'
+
+    # ----------{ home page }---------- #
+    home_page = 'com.graaho.khaodao:id/home_background'
+    home_page_id = 'com.android.permissioncontroller:id/grant_singleton'
+    allow_one_time = 'com.android.permissioncontroller:id/permission_allow_one_time_button'
+    dont_allow_location = 'com.android.permissioncontroller:id/permission_deny_button'
+    while_using_app_location = 'com.android.permissioncontroller:id/permission_allow_foreground_only_button'
+    qrc = 'com.graaho.khaodao:id/qrcLl'
+    take_out = 'com.graaho.khaodao:id/takeOutLl'
+    delivery = 'com.graaho.khaodao:id/deliveryLl'
+    restaurent_list = 'com.graaho.khaodao:id/restaurantListRL'
+    back='com.graaho.khaodao:id/backIV'
+    allow_camera = 'com.android.permissioncontroller:id/permission_allow_one_time_button'
+    scanner_id = 'com.graaho.khaodao:id/scanner_view'
+    order_page = 'com.graaho.khaodao:id/navigation_my_orders'
+    favourite_page = 'com.graaho.khaodao:id/navigation_favorites'
+    profile = 'com.graaho.khaodao:id/navigation_profile'
+    profile_view = 'com.graaho.khaodao:id/profileIV'
+    filter_button = 'com.graaho.khaodao:id/filterCV'
+    address = 'com.graaho.khaodao:id/addressSFL'
+    add_new_address  = 'com.graaho.khaodao:id/addNewLL'
+    alert_dialogue_title = 'com.graaho.khaodao:id/titleAlertTextView'
+    two_digit_price = 'com.graaho.khaodao:id/twoDigitPriceTv'
+    food_card_class = 'android.widget.RelativeLayout'
+    find_btn = 'com.graaho.khaodao:id/cuisineTypeTv'
+    # ----------{ more page }---------- #
+    more_page = 'com.graaho.khaodao:id/profilePageRelativeLayout'
+    ok_dialogue_btn = 'com.graaho.khaodao:id/btnOkDialog'
+    title = 'com.graaho.khaodao:id/titleTv'
+    cancel_btn_id = 'com.graaho.khaodao:id/cancelTv'
+    plate_btn = 'com.graaho.khaodao:id/imageButton'
+    # ok_dialogue_btn = 'com.graaho.khaodao:id/btnOkDialog'
+    login_required = 'Login Required!'
+    my_plate = 'My Plate!'
+
+    # ----------{ profile page }---------- #
+    profile_page = 'com.graaho.khaodao:id/profilePageRelativeLayout'
+
+    header_title = 'com.graaho.khaodao:id/headerTitleTV'
+    opt_msg = 'Confirm OTP'
+    resend_otp = 'com.graaho.khaodao:id/resendCodeTv'
+    verify_btn = 'com.graaho.khaodao:id/verifyBtn'
+
